@@ -1,14 +1,18 @@
-# Signal Lab 🧪
+# Summer Project Portfolio ☀️
 
-Welcome to **Signal Lab**, a personal laboratory for learning, experimenting, and building with *Data Science*, *Machine Learning*, and *Artificial Intelligence*.
+Selamat datang di repositori utama **Summer Project**! 
 
-This repository originally started as a **Summer Project** during my fourth-semester break. Over time, it has grown into an ongoing space for learning and experimentation, covering everything from *data extraction* and *data preprocessing* to *exploratory data analysis*, model development, and deployment.
+**Kenapa ada this project?**
 
-*Learning by doing, one project at a time. Feel free to explore!*
+Libur semester 4 kemarin *didn't go as planned* karena belum berhasil dapet posisi *internship*. Daripada *wasting time*, saya memutuskan untuk *stay productive* dengan membuat proyek mandiri yang saya namakan **Summer Project**.
 
-## Project Collection
+Repositori ini adalah *playground* saya untuk bereksperimen di dunia *Data Science* dan *Machine Learning*. Di sini, saya mendokumentasikan perjalanan saya dari nol mulai dari *data extraction*, *preprocessing*, hingga *building predictive models*. 
 
-Here is a summary of the projects in this lab:
+*It’s all about learning by doing. Feel free to explore and let me know what you think!*
+
+## Daftar Proyek
+
+Berikut adalah ringkasan seluruh proyek yang ada di dalam repositori ini:
 
 | # | Project | What I Learned | Category |
 |:---:|:---|:---|:---|
@@ -20,8 +24,5 @@ Here is a summary of the projects in this lab:
 | **6** | [Twitter Data Crawling](./Scraping%20Crawl%20data%20twitter) | Web scraping, Handling headless browsers (Playwright), Managing rate limits | Data Extraction |
 | **7** | [YouTube Scraping & Sentiment Analysis](./Scraping%20youtube%20data%20api%20v3) | YouTube Data API v3, Text cleaning (RegEx), Hugging Face Transformers (NLP) | Data Extraction & NLP |
 | **8** | [Human Resources Attrition Prediction](./Submission_Pertama_HR) | EDA, Data Preprocessing, Random Forest, Streamlit Dashboard, Metabase BI, Cloud Deployment | Classification & BI |
-| **9** | [Rose Color Classification](./Flower%20color%20classification) | Transfer learning, Data augmentation, EfficientNet-B0, Computer Vision | Deep Learning & Computer Vision |
-| **10** | [YouTube Comments: Rupiah Melemah](./Scraping%20Youtube%20Rupiah%20Melemah) | YouTube Data API v3, Video search, Comment extraction, Dataset collection | Data Extraction |
-| **11** | [Student Dropout Prediction](./Submission_Akhir_Permasalahan_Institusi_Pendidikan) | EDA, Feature engineering, XGBoost, Streamlit Dashboard, Metabase BI, Cloud Deployment | Classification & BI |
 
 > Silakan klik pada masing-masing nama proyek untuk masuk ke direktorinya dan melihat dokumentasi serta kode secara lebih lengkap!
